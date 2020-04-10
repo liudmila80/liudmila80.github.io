@@ -1,0 +1,38 @@
+.accept {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #1565C0;
+    border: 1px solid #444444;
+    color: white;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin: 10px 50px;
+}
+
+.decline {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #00796B;
+    border: 1px solid #444444;
+    color: white;
+    font-family: sans-serif;
+}
+
+.refresh {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #FEC007;
+    border: 1px solid #444444;
+    color: white;
+    font-family: sans-serif;
+}
